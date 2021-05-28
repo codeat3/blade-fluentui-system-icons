@@ -2,6 +2,8 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.0.1 (2021-05-28)
+fixes the icon name
 
 ## 1.0.0 (2021-05-28)
 Initial release.
