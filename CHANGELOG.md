@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.1.1 (2021-05-28)
+Current package support [fluentui-system-icons v1.1.127](https://github.com/microsoft/fluentui-system-icons/releases/tag/1.1.127)
+
 ## 1.0.1 (2021-05-28)
 fixes the icon name
 
