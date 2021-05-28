@@ -17,7 +17,7 @@ final class BladeFluentUiSystemIconsServiceProvider extends ServiceProvider
         $this->callAfterResolving(Factory::class, function (Factory $factory, Container $container) {
             $config = $container->make('config')->get('blade-fluentui-system-icons', []);
 
-            $factory->add('iconic', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
+            $factory->add('fluentui-system-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
 
     }
