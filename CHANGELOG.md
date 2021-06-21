@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.4.1 (2021-06-21)
+* Updated package support to [fluentui-system-icons v1.1.133](https://github.com/microsoft/fluentui-system-icons/releases/tag/1.1.133)
+
 ## 1.3.1 (2021-06-14)
 * Updated package support to [fluentui-system-icons v1.1.130](https://github.com/microsoft/fluentui-system-icons/releases/tag/1.1.130)
 
