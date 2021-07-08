@@ -19,7 +19,6 @@ final class BladeFluentUiSystemIconsServiceProvider extends ServiceProvider
 
             $factory->add('fluentui-system-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeFluentUiSystemIconsServiceProvider extends ServiceProvider
             ], 'blade-fluentui-system-icons-config');
         }
     }
-
 }
