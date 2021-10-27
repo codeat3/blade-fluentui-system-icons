@@ -4,6 +4,9 @@ This changelog follows [the Keep a Changelog standard](https://keepachangelog.co
 
 ## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.9.1...main)
 
+## 1.10.1 (2021-10-27)
+* Updated package support to [fluentui-system-icons v1.1.145](https://github.com/microsoft/fluentui-system-icons/releases/tag/1.1.145)
+
 ## 1.9.1 (2021-10-11)
 * Updated package support to [fluentui-system-icons v1.1.143](https://github.com/microsoft/fluentui-system-icons/releases/tag/1.1.143)
 
