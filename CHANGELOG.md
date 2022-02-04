@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.15.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.16.1...HEAD)
+
+## [1.16.1](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.15.1...1.16.1) - 2022-02-04
+
+## What's Changed
+
+- Added support for Laravel 9 by @swapnilsarwe in https://github.com/codeat3/blade-fluentui-system-icons/pull/34
+
+**Full Changelog**: https://github.com/codeat3/blade-fluentui-system-icons/compare/1.15.1...1.16.1
 
 ## [1.15.1](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.14.1...1.15.1) - 2022-01-31
 
