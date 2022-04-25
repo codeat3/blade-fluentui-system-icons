@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.22.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.23.1...HEAD)
+
+## [1.23.1](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.22.1...1.23.1) - 2022-04-25
+
+## What's Changed
+
+- synced with the latest tag [1.1.167](https://github.com/microsoft/fluentui-system-icons/releases/tag/1.1.167)
+- chore: update icons with the latest commit [6ae8483](https://github.com/microsoft/fluentui-system-icons/commit/6ae848334b18c41e5ba725d4d4a7347d11f6de7a) by @github-actions in https://github.com/codeat3/blade-fluentui-system-icons/pull/43
+
+**Full Changelog**: https://github.com/codeat3/blade-fluentui-system-icons/compare/1.22.1...1.23.1
 
 ## [1.22.1](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.21.1...1.22.1) - 2022-04-11
 
