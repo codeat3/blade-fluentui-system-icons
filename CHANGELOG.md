@@ -2,7 +2,19 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.31.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.32.1...HEAD)
+
+## [1.32.1](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.31.1...1.32.1) - 2023-02-18
+
+### What's Changed
+
+- laravel 10 compactibility by @inkomomutane in https://github.com/codeat3/blade-fluentui-system-icons/pull/58
+
+### New Contributors
+
+- @inkomomutane made their first contribution in https://github.com/codeat3/blade-fluentui-system-icons/pull/58
+
+**Full Changelog**: https://github.com/codeat3/blade-fluentui-system-icons/compare/1.31.1...1.32.1
 
 ## [1.31.1](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.30.1...1.31.1) - 2022-08-22
 
