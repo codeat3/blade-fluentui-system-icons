@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.33.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.34.0...HEAD)
+
+## [1.34.0](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.33.0...1.34.0) - 2025-02-25
+
+### What's Changed
+
+* added support for laravel 12 by @swapnilsarwe in https://github.com/codeat3/blade-fluentui-system-icons/pull/61
+
+**Full Changelog**: https://github.com/codeat3/blade-fluentui-system-icons/compare/1.33.0...1.34.0
 
 ## [1.33.0](https://github.com/codeat3/blade-fluentui-system-icons/compare/1.32.1...1.33.0) - 2024-02-28
 
